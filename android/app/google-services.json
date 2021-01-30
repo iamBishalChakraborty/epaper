@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1003801077958",
+    "project_id": "epaper-ec82e",
+    "storage_bucket": "epaper-ec82e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003801077958:android:14a9b6ae907e2cc0390fc7",
+        "android_client_info": {
+          "package_name": "in.bishalchakraborty.epaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003801077958-ku7q3nbee5tp9gsqqj406r3ghbaghulk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.bishalchakraborty.epaper",
+            "certificate_hash": "c1c7fd7a802ca9a7cd201d88eb6cb4bae2af88a3"
+          }
+        },
+        {
+          "client_id": "1003801077958-g18rurt828e7od49tf3bklvgafnlran9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-fTtf60SKND0g4sEoLrum1YgtISPFQjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003801077958-g18rurt828e7od49tf3bklvgafnlran9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
